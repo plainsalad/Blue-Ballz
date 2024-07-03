@@ -4,13 +4,11 @@ Blue Ballz is an engaging ball game developed using Unity engine and C# programm
 
 ## Table of Contents
 
-- [Blue Ballz](#blue-ballz)
-  - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [How to Play](#how-to-play)
-  - [Controls](#controls)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [Installation](#installation)
+- [How to Play](#how-to-play)
+- [Controls](#controls)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Installation
 
